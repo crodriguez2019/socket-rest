@@ -1,6 +1,6 @@
 # Socket-Server
 
-Reconstrui modulos de node
+Reconstruir modulos de node
 ```
 npm install
 
@@ -9,7 +9,7 @@ Generar el DIST
 
 tsc -w
 
-Levartar el Servidor
+Levantar el Servidor
 
 
 ```
